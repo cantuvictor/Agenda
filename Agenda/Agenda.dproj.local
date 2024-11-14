@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/11/08 16:43:16.000.743,=C:\Users\victor.ramires\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/11/13 17:18:03.000.955,=C:\Users\victor.ramires\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/11/13 17:30:10.000.748,C:\Users\victor.ramires\Desktop\Agenda\UnitPrincipal.dfm=C:\Users\victor.ramires\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/11/13 17:30:10.000.748,C:\Users\victor.ramires\Desktop\Agenda\UnitPrincipal.pas=C:\Users\victor.ramires\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/11/13 17:30:16.000.042,C:\Users\victor.ramires\Desktop\Agenda\Agenda.dproj=C:\Users\victor.ramires\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/11/13 17:32:03.000.591,=C:\Users\victor.ramires\Desktop\Agenda\Unit1.pas</Transaction>
+    <Transaction>2024/11/13 17:32:54.000.690,C:\Users\victor.ramires\Desktop\Agenda\unitDM.dfm=C:\Users\victor.ramires\Desktop\Agenda\Unit1.dfm</Transaction>
+    <Transaction>2024/11/13 17:32:54.000.690,C:\Users\victor.ramires\Desktop\Agenda\unitDM.pas=C:\Users\victor.ramires\Desktop\Agenda\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
